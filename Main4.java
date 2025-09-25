@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
  //Client-klassen der opretter og bruger GameMenu.
  
-public class Main {
+public class Main4 {
     public static void main(String[] args) {
         // 4.f - opret en liste med handlinger
         ArrayList<String> actions = new ArrayList<>();
